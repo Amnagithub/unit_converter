@@ -5,4 +5,6 @@ description = "Unit converter for Length, Weight, Temperature & Time"
 readme = "README.md"
 requires-python = ">=3.9,<3.13"
 dependencies = []
-license = "MIT"
+
+[tool.poetry]
+package-mode = false
